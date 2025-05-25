@@ -1,5 +1,4 @@
 # Final-project
-DressedByTheDay
 
 The project developed is Comfort Temperature Dress Assistant, which helps users select the most appropriate clothing based on the difference between the current ‘feels-like’ temperature and their personal comfort temperature.
 
