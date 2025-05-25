@@ -2,11 +2,7 @@
 
 The project developed is Dressed by the day, which helps users select the most appropriate clothing based on the difference between the current ‘feels-like’ temperature and their personal comfort temperature.
 
-Factors considered:
-Daily temperature
-The user’s comfort preference
-Windy Condition
-Rainy Condition
+Factors considered:Daily temperature; The user’s comfort preference; Windy Condition; Rainy Condition
 
 
 How the project works:
