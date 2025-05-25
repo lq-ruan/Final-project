@@ -1,6 +1,6 @@
 # Final-project
 
-The project developed is Comfort Temperature Dress Assistant, which helps users select the most appropriate clothing based on the difference between the current ‘feels-like’ temperature and their personal comfort temperature.
+The project developed is Dressed by the day, which helps users select the most appropriate clothing based on the difference between the current ‘feels-like’ temperature and their personal comfort temperature.
 
 The main features include:
 Assigning a warmth value to each piece of clothing
